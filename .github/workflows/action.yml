@@ -18,8 +18,8 @@ jobs:
             pushplus2_token: PUSHPLUS2_TOKEN
           - username: ZJU_USERNAME2
             password: ZJU_PASSWORD2
-            pushplus_token: PUSHPLUS_TOKEN2
-            pushplus2_token: PUSHPLUS2_TOKEN2
+            pushplus_token: PUSHPLUS_TOKEN
+            pushplus2_token: PUSHPLUS2_TOKEN
     steps:
       - name: Working
         uses: chenhy122/zju-ncov-hitcarder@master
